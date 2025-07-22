@@ -115,4 +115,4 @@ for query in tables:
 cursor.close()
 conn.close()
 
-print("All tables created successfully in database 'netflixdb'.")
+print("All tables created successfully in MySQL database 'netflix'.")
