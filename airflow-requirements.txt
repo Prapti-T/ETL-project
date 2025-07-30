@@ -1,0 +1,3 @@
+pymysql
+apache-airflow-providers-mysql
+# Add any other Python packages your Airflow DAGs or plugins require here
